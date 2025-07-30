@@ -1,1 +1,1 @@
-Run the code and enter 'i' on twrminal for instructions
+Run the code and enter 'i' on the terminal for instructions
