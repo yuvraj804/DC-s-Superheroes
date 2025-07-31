@@ -208,7 +208,7 @@ while True:
 
     elif action.lower() == "create":
         print("\n--- Create a New Superhero ---")
-        name = input("Name: ")
+        name = input("Name: ").replace(" ", "")
         if name.lower() == "exit":
             break
         try:
