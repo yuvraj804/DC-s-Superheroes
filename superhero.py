@@ -82,12 +82,12 @@ Flash = superhero(
 )
 
 GreenLantern = superhero(
-    'Green Lantern', 95, 90, 92, 97,
+    'GreenLantern', 95, 90, 92, 97,
     "In brightest day, in blackest night, No evil shall escape my sight. Let those who worship evil's might, Beware my power—Green Lantern's light!"
 )
 
 WonderWoman = superhero(
-    'Wonder Woman', 97, 88, 90, 95,
+    'WonderWoman', 97, 88, 90, 95,
     "I will fight for those who cannot fight for themselves."
 )
 
@@ -102,7 +102,7 @@ Cyborg = superhero(
 )
 
 MartianManhunter = superhero(
-    'Martian Manhunter', 92, 90, 91, 94,
+    'MartianManhunter', 92, 90, 91, 94,
     "I am the last son of Mars... and Earth’s silent guardian."
 )
 
@@ -127,7 +127,7 @@ Mindweaver = superhero(
 )
 
 MossMaiden = superhero(
-    "Moss Maiden", 39, 42, 46, 50,
+    "MossMaiden", 39, 42, 46, 50,
     "Where silence grows, so does resolve."
 )
 
